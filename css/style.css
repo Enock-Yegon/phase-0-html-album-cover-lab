@@ -33,7 +33,7 @@ h1 {
 }
 
 h2 {
-  font-size: 5.1em;
+  font-size: 4em;
   line-height: 1em;
   letter-spacing: .03em;
   margin-bottom: 2px;
@@ -49,7 +49,7 @@ h3 {
 h4 {
   font-weight: normal;
   font-size: .7em;
-  letter-spacing: .4em;
+  letter-spacing: .3em;
   margin-bottom: 9px;
   line-height: 1em;
 }
@@ -61,7 +61,7 @@ p {
   margin-bottom: 15px;
 }
 
-span {
+span.a {
   display: inline-block;
   font-size: 1em;
   line-height: 1em;
@@ -72,6 +72,7 @@ span {
 
 img {
   display: inline-block;
+  text-align: center;
   margin: 0 40px;
 }
 
